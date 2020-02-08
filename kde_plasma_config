@@ -9,7 +9,7 @@ activate task manager entry 6=Meta+6
 activate task manager entry 7=Meta+7
 activate task manager entry 8=Meta+8
 activate task manager entry 9=Meta+9
-activate widget 5=none
+activate widget 5=Meta+F1
 clear-history=none
 clipboard_action=Ctrl+Alt+X
 cycleNextAction=none
@@ -39,6 +39,13 @@ display=Display; Meta+P
 
 [kaccess][Global Shortcuts]
 Toggle Screen Reader On and Off=Meta+Alt+S
+
+[khotkeys][Global Shortcuts]
+{19c54493-b9ca-45d5-8987-d7d00e905b84}=none
+{319d84bd-a4dc-4954-a150-c6ff7c114379}=none
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none
+{e69aa637-ec0e-4114-96ba-a785dc3c8125}=none
+{fe67620f-53e6-45cf-91f0-17ed294d3746}=none
 
 [kmix][Global Shortcuts]
 decrease_microphone_volume=Microphone Volume Down
@@ -205,11 +212,6 @@ Window to Screen 7=none
 view_actual_size=none
 view_zoom_in=Meta+=
 view_zoom_out=Meta+-
-{19c54493-b9ca-45d5-8987-d7d00e905b84}=none
-{319d84bd-a4dc-4954-a150-c6ff7c114379}=Ctrl+Print
-{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none
-{e69aa637-ec0e-4114-96ba-a785dc3c8125}=Print
-{fe67620f-53e6-45cf-91f0-17ed294d3746}=none
 
 [mediacontrol][Global Shortcuts]
 nextmedia=Media Next
