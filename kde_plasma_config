@@ -62,7 +62,7 @@ Reboot Without Confirmation=none
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Ctrl+Alt+A
 Decrease Opacity=none
-Expose=Ctrl+F9
+Expose=Ctrl+F9; Meta+Tab
 ExposeAll=Ctrl+F10; Launch (C)
 ExposeClass=Ctrl+F7
 Increase Opacity=none
